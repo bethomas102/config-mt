@@ -2,7 +2,7 @@
     "host_domain": "https://cfg.mzktasu.info/",
     "api_domain": "https://api.mzktasu.info/",
     "iFrame_domain": "https://web.sun.fun/",
-    "rs_domain": "/staticmt.net",
+    "rs_domain": "/staticmt.net/",
     "sport_domain": "https://sport.mzktasu.info/",
     "ws_sport_domain": "wss://wssport.mzktasu.info/websocket",
     "xd_live_version": "1.0.2",
